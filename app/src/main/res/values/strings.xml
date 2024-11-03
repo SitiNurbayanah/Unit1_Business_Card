@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Siti Nurbayanah</string>
+    <string name="title">Teknik Informatika 2022</string>
+    <string name="phone_number">(+62)83870083574</string>
+    <string name="social_handle">@nurbayanah.s</string>
+    <string name="email">1227050128@student.id</string>
+</resources>
